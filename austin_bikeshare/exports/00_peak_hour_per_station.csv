@@ -1,0 +1,101 @@
+start_station_id,start_station_name,peak_hour,peak_hour_trips,pct_of_station_trips_pct
+3798,21st/Speedway @ PCL,18,9169,8.45
+2498,Dean Keeton/Speedway,15,6073,9.33
+2574,Zilker Park,15,5981,12.13
+2547,21st/Guadalupe,17,3868,8.85
+2575,Riverside/South Lamar,13,3669,10.01
+2572,Barton Springs Pool,15,3594,12.98
+3795,Dean Keeton/Whitis,12,3563,8.24
+3838,26th/Nueces,18,3395,7.68
+2548,Guadalupe/West Mall @ University Co-op,15,3311,8.55
+2707,Rainey/Cummings,16,3202,8.64
+2552,3rd/West,17,2925,10.06
+2499,2nd/Lavaca @ City Hall,17,2894,10.07
+2501,5th/Bowie,17,2855,9.88
+2495,4th/Congress,17,2793,10.47
+2497,11th/Congress @ The Texas Capitol,14,2534,10.81
+2494,2nd & Congress,17,2501,11.78
+3794,Dean Keeton & Speedway ,16,2353,9.75
+2566,Electric Drive/Sandra Muraida Way @ Pfluger Ped Bridge,17,2273,8.49
+3799,23rd/San Jacinto @ DKR Stadium,13,2202,8.97
+3797,21st/University,12,2176,9.13
+3687,Boardwalk West,13,2080,10.03
+2567,Barton Springs/Bouldin @ Palmer Auditorium,14,2043,9.76
+2542,Plaza Saltillo,13,1992,7.09
+4061,Lakeshore/Austin Hostel,16,1950,9.22
+2549,South 1st/Riverside @ Long Center,15,1767,9.11
+3619,6th/Congress,16,1742,10.46
+2563,Davis at Rainey Street,15,1740,8.27
+7189,28th/Rio Grande,18,1740,8.99
+7188,22nd/Pearl,17,1688,7.6
+3841,23rd & Rio Grande,18,1674,7.08
+2539,3rd/Trinity @ The Convention Center,17,1665,8.19
+7125,23rd/Pearl,18,1664,8.3
+3377,MoPac Pedestrian Bridge @ Veterans Drive,15,1642,10.63
+2711,Barton Springs/Kinney,15,1605,9.88
+3792,22nd & Pearl,18,1569,7.06
+2496,8th/Congress,16,1564,10.21
+3793,Rio Grande & 28th,18,1547,7.51
+2503,South Congress/James,15,1425,10.46
+2570,South Congress/Academy,15,1404,9.89
+3390,Brazos & 6th,17,1336,9.87
+4059,Nash Hernandez/East @ RBJ South,12,1327,9.85
+4938,22.5/Rio Grande,18,1323,8.23
+3621,3rd/Nueces,16,1305,8.99
+4062,Lakeshore/Pleasant Valley,17,1302,9.13
+2504,South Congress/Elizabeth,13,1272,10.11
+2537,6th/West,17,1181,8.93
+3686,Sterzing/Barton Springs,14,1177,9.74
+2502,Barton Springs & Riverside,15,1172,12.46
+3660,East 6th/Medina,18,1150,8.97
+2562,8th/San Jacinto,17,1035,11.31
+3513,South Congress & Barton Springs at the Austin American-Statesman,12,1019,8.67
+4048,South Congress @ Bouldin Creek,17,983,10.24
+2565,6th/Trinity,17,982,7.86
+3684,Cesar Chavez/Congress,13,980,9.36
+2569,East 11th St. & San Marcos,9,925,12.98
+3293,Barton Springs/Riverside,15,882,8.8
+2822,East 6th at Robert Martinez,8,881,14.3
+2550,Republic Square @ Guadalupe & 4th St.,17,866,8.02
+2540,17th & Guadalupe,17,853,12.2
+2544,East 6th/Pedernales,16,805,9.46
+4060,Red River/Cesar Chavez @ The Fairmont,11,787,8.64
+4879,16th/San Antonio,17,783,8.44
+2538,Bullock Museum @ Congress & MLK,13,747,12.88
+2571,8th/Red River,18,713,6.81
+3685,9th/Henderson,15,697,9.32
+2564,5th & San Marcos,8,679,9.31
+3455,4th/Guadalupe @ Republic Square,18,667,7.91
+2561,12th/San Jacinto @ State Capitol Visitors Garage,12,639,9.21
+3790,Lake Austin Blvd/Deep Eddy,19,638,7.95
+2568,East 11th/Victory Grill,12,618,11.86
+4058,Hollow Creek/Barton Hills,16,615,9.81
+4050,5th/Campbell,17,575,8.87
+3292,East 4th & Chicon,12,562,10.26
+2823,East 5th/Broadway @ Capital Metro HQ,16,535,9.47
+4047,8th/Lavaca,16,490,10.84
+2576,Rainey @ River St,21,488,11.15
+3291,11th & San Jacinto,17,486,11.17
+2536,Waller & 6th St.,14,476,8.59
+2546,ACC - West & 12th Street,13,467,10.76
+1006,Zilker Park West,21,465,35.94
+1007,Lavaca & 6th,17,460,11.6
+7190,Rio Grande/12th,12,450,11.66
+3294,6th/Lavaca,16,429,10.33
+3791,Lake Austin/Enfield,16,420,10.58
+7187,South Congress/Mary,13,365,8.73
+4057,6th/Chalmers ,17,342,11.29
+2541,State Capitol @ 14th & Colorado,12,318,13.27
+2712,Toomey Rd @ South Lamar,12,308,8.9
+7341,Dean Keeton/Park Place,16,275,8.94
+4052,Rosewood/Angelina,17,271,11.53
+4699,East 5th/Shady @ Eastside Bus Plaza,17,259,9.7
+4051,10th/Red River,11,227,8.63
+3635,13th & San Antonio,11,212,10.23
+7131,13th/Trinity @ Waterloo Greenway,15,191,8.81
+2545,ACC - Rio Grande & 12th,15,181,10.62
+4055,11th/Salina ,19,178,9.04
+7253,Barton Springs/Riverside,18,172,9.32
+7186,One Texas Center,12,153,10.0
+3381,East 7th & Pleasant Valley,16,151,27.4
+4054,Rosewood/Chicon,13,148,9.78

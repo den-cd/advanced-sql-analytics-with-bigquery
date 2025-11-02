@@ -1,0 +1,601 @@
+subscriber_type,median_duration_minutes,start_station_id,start_station_name,station_avg_duration,trips_at_station
+$1 Pay by Trip Fall Special,31.0,2498,Dean Keeton/Speedway ,102.42,219
+$1 Pay by Trip Fall Special,31.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+$1 Pay by Trip Fall Special,31.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+$1 Pay by Trip Fall Special,31.0,4055,11th & Salina ,62.35,1433
+$1 Pay by Trip Fall Special,31.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+$1 Pay by Trip Fall Special,31.0,4047,8th & Lavaca,59.5,342
+$1 Pay by Trip Fall Special,31.0,3635,13th/San Antonio,55.99,624
+$1 Pay by Trip Fall Special,31.0,3294,6th/Lavaca,54.17,4151
+$1 Pay by Trip Fall Special,31.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+$1 Pay by Trip Fall Special,31.0,3390,6th/Brazos,52.78,5003
+$1 Pay by Trip Winter Special,38.0,2498,Dean Keeton/Speedway ,102.42,219
+$1 Pay by Trip Winter Special,38.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+$1 Pay by Trip Winter Special,38.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+$1 Pay by Trip Winter Special,38.0,4055,11th & Salina ,62.35,1433
+$1 Pay by Trip Winter Special,38.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+$1 Pay by Trip Winter Special,38.0,4047,8th & Lavaca,59.5,342
+$1 Pay by Trip Winter Special,38.0,3635,13th/San Antonio,55.99,624
+$1 Pay by Trip Winter Special,38.0,3294,6th/Lavaca,54.17,4151
+$1 Pay by Trip Winter Special,38.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+$1 Pay by Trip Winter Special,38.0,3390,6th/Brazos,52.78,5003
+24 Hour Walk Up Pass,22.0,2498,Dean Keeton/Speedway ,102.42,219
+24 Hour Walk Up Pass,22.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+24 Hour Walk Up Pass,22.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+24 Hour Walk Up Pass,22.0,4055,11th & Salina ,62.35,1433
+24 Hour Walk Up Pass,22.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+24 Hour Walk Up Pass,22.0,4047,8th & Lavaca,59.5,342
+24 Hour Walk Up Pass,22.0,3635,13th/San Antonio,55.99,624
+24 Hour Walk Up Pass,22.0,3294,6th/Lavaca,54.17,4151
+24 Hour Walk Up Pass,22.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+24 Hour Walk Up Pass,22.0,3390,6th/Brazos,52.78,5003
+24-Hour Membership,29.0,2498,Dean Keeton/Speedway ,102.42,219
+24-Hour Membership,29.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+24-Hour Membership,29.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+24-Hour Membership,29.0,4055,11th & Salina ,62.35,1433
+24-Hour Membership,29.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+24-Hour Membership,29.0,4047,8th & Lavaca,59.5,342
+24-Hour Membership,29.0,3635,13th/San Antonio,55.99,624
+24-Hour Membership,29.0,3294,6th/Lavaca,54.17,4151
+24-Hour Membership,29.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+24-Hour Membership,29.0,3390,6th/Brazos,52.78,5003
+3-Day Explorer,20.0,2498,Dean Keeton/Speedway ,102.42,219
+3-Day Explorer,20.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+3-Day Explorer,20.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+3-Day Explorer,20.0,4055,11th & Salina ,62.35,1433
+3-Day Explorer,20.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+3-Day Explorer,20.0,4047,8th & Lavaca,59.5,342
+3-Day Explorer,20.0,3635,13th/San Antonio,55.99,624
+3-Day Explorer,20.0,3294,6th/Lavaca,54.17,4151
+3-Day Explorer,20.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+3-Day Explorer,20.0,3390,6th/Brazos,52.78,5003
+3-Day Weekender,19.0,2498,Dean Keeton/Speedway ,102.42,219
+3-Day Weekender,19.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+3-Day Weekender,19.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+3-Day Weekender,19.0,4055,11th & Salina ,62.35,1433
+3-Day Weekender,19.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+3-Day Weekender,19.0,4047,8th & Lavaca,59.5,342
+3-Day Weekender,19.0,3635,13th/San Antonio,55.99,624
+3-Day Weekender,19.0,3294,6th/Lavaca,54.17,4151
+3-Day Weekender,19.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+3-Day Weekender,19.0,3390,6th/Brazos,52.78,5003
+7-Day,11.0,2498,Dean Keeton/Speedway ,102.42,219
+7-Day,11.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+7-Day,11.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+7-Day,11.0,4055,11th & Salina ,62.35,1433
+7-Day,11.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+7-Day,11.0,4047,8th & Lavaca,59.5,342
+7-Day,11.0,3635,13th/San Antonio,55.99,624
+7-Day,11.0,3294,6th/Lavaca,54.17,4151
+7-Day,11.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+7-Day,11.0,3390,6th/Brazos,52.78,5003
+ACL 2019 Pass,17.0,2498,Dean Keeton/Speedway ,102.42,219
+ACL 2019 Pass,17.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+ACL 2019 Pass,17.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+ACL 2019 Pass,17.0,4055,11th & Salina ,62.35,1433
+ACL 2019 Pass,17.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+ACL 2019 Pass,17.0,4047,8th & Lavaca,59.5,342
+ACL 2019 Pass,17.0,3635,13th/San Antonio,55.99,624
+ACL 2019 Pass,17.0,3294,6th/Lavaca,54.17,4151
+ACL 2019 Pass,17.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+ACL 2019 Pass,17.0,3390,6th/Brazos,52.78,5003
+ACL Weekend Pass Special,19.0,2498,Dean Keeton/Speedway ,102.42,219
+ACL Weekend Pass Special,19.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+ACL Weekend Pass Special,19.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+ACL Weekend Pass Special,19.0,4055,11th & Salina ,62.35,1433
+ACL Weekend Pass Special,19.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+ACL Weekend Pass Special,19.0,4047,8th & Lavaca,59.5,342
+ACL Weekend Pass Special,19.0,3635,13th/San Antonio,55.99,624
+ACL Weekend Pass Special,19.0,3294,6th/Lavaca,54.17,4151
+ACL Weekend Pass Special,19.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+ACL Weekend Pass Special,19.0,3390,6th/Brazos,52.78,5003
+Aluminum Access,7.0,2498,Dean Keeton/Speedway ,102.42,219
+Aluminum Access,7.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Aluminum Access,7.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Aluminum Access,7.0,4055,11th & Salina ,62.35,1433
+Aluminum Access,7.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Aluminum Access,7.0,4047,8th & Lavaca,59.5,342
+Aluminum Access,7.0,3635,13th/San Antonio,55.99,624
+Aluminum Access,7.0,3294,6th/Lavaca,54.17,4151
+Aluminum Access,7.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Aluminum Access,7.0,3390,6th/Brazos,52.78,5003
+Annual,13.0,2498,Dean Keeton/Speedway ,102.42,219
+Annual,13.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Annual,13.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Annual,13.0,4055,11th & Salina ,62.35,1433
+Annual,13.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Annual,13.0,4047,8th & Lavaca,59.5,342
+Annual,13.0,3635,13th/San Antonio,55.99,624
+Annual,13.0,3294,6th/Lavaca,54.17,4151
+Annual,13.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Annual,13.0,3390,6th/Brazos,52.78,5003
+Annual ,11.0,2498,Dean Keeton/Speedway ,102.42,219
+Annual ,11.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Annual ,11.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Annual ,11.0,4055,11th & Salina ,62.35,1433
+Annual ,11.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Annual ,11.0,4047,8th & Lavaca,59.5,342
+Annual ,11.0,3635,13th/San Antonio,55.99,624
+Annual ,11.0,3294,6th/Lavaca,54.17,4151
+Annual ,11.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Annual ,11.0,3390,6th/Brazos,52.78,5003
+Annual Member,11.0,2498,Dean Keeton/Speedway ,102.42,219
+Annual Member,11.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Annual Member,11.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Annual Member,11.0,4055,11th & Salina ,62.35,1433
+Annual Member,11.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Annual Member,11.0,4047,8th & Lavaca,59.5,342
+Annual Member,11.0,3635,13th/San Antonio,55.99,624
+Annual Member,11.0,3294,6th/Lavaca,54.17,4151
+Annual Member,11.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Annual Member,11.0,3390,6th/Brazos,52.78,5003
+Annual Membership,12.0,2498,Dean Keeton/Speedway ,102.42,219
+Annual Membership,12.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Annual Membership,12.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Annual Membership,12.0,4055,11th & Salina ,62.35,1433
+Annual Membership,12.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Annual Membership,12.0,4047,8th & Lavaca,59.5,342
+Annual Membership,12.0,3635,13th/San Antonio,55.99,624
+Annual Membership,12.0,3294,6th/Lavaca,54.17,4151
+Annual Membership,12.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Annual Membership,12.0,3390,6th/Brazos,52.78,5003
+Annual Membership ,13.0,2498,Dean Keeton/Speedway ,102.42,219
+Annual Membership ,13.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Annual Membership ,13.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Annual Membership ,13.0,4055,11th & Salina ,62.35,1433
+Annual Membership ,13.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Annual Membership ,13.0,4047,8th & Lavaca,59.5,342
+Annual Membership ,13.0,3635,13th/San Antonio,55.99,624
+Annual Membership ,13.0,3294,6th/Lavaca,54.17,4151
+Annual Membership ,13.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Annual Membership ,13.0,3390,6th/Brazos,52.78,5003
+Annual Pass,14.0,2498,Dean Keeton/Speedway ,102.42,219
+Annual Pass,14.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Annual Pass,14.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Annual Pass,14.0,4055,11th & Salina ,62.35,1433
+Annual Pass,14.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Annual Pass,14.0,4047,8th & Lavaca,59.5,342
+Annual Pass,14.0,3635,13th/San Antonio,55.99,624
+Annual Pass,14.0,3294,6th/Lavaca,54.17,4151
+Annual Pass,14.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Annual Pass,14.0,3390,6th/Brazos,52.78,5003
+Annual Pass (30 minute),7.0,2498,Dean Keeton/Speedway ,102.42,219
+Annual Pass (30 minute),7.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Annual Pass (30 minute),7.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Annual Pass (30 minute),7.0,4055,11th & Salina ,62.35,1433
+Annual Pass (30 minute),7.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Annual Pass (30 minute),7.0,4047,8th & Lavaca,59.5,342
+Annual Pass (30 minute),7.0,3635,13th/San Antonio,55.99,624
+Annual Pass (30 minute),7.0,3294,6th/Lavaca,54.17,4151
+Annual Pass (30 minute),7.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Annual Pass (30 minute),7.0,3390,6th/Brazos,52.78,5003
+Annual Pass (Original),12.0,2498,Dean Keeton/Speedway ,102.42,219
+Annual Pass (Original),12.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Annual Pass (Original),12.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Annual Pass (Original),12.0,4055,11th & Salina ,62.35,1433
+Annual Pass (Original),12.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Annual Pass (Original),12.0,4047,8th & Lavaca,59.5,342
+Annual Pass (Original),12.0,3635,13th/San Antonio,55.99,624
+Annual Pass (Original),12.0,3294,6th/Lavaca,54.17,4151
+Annual Pass (Original),12.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Annual Pass (Original),12.0,3390,6th/Brazos,52.78,5003
+Annual Plus,12.0,2498,Dean Keeton/Speedway ,102.42,219
+Annual Plus,12.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Annual Plus,12.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Annual Plus,12.0,4055,11th & Salina ,62.35,1433
+Annual Plus,12.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Annual Plus,12.0,4047,8th & Lavaca,59.5,342
+Annual Plus,12.0,3635,13th/San Antonio,55.99,624
+Annual Plus,12.0,3294,6th/Lavaca,54.17,4151
+Annual Plus,12.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Annual Plus,12.0,3390,6th/Brazos,52.78,5003
+Annual Plus Membership,12.0,2498,Dean Keeton/Speedway ,102.42,219
+Annual Plus Membership,12.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Annual Plus Membership,12.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Annual Plus Membership,12.0,4055,11th & Salina ,62.35,1433
+Annual Plus Membership,12.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Annual Plus Membership,12.0,4047,8th & Lavaca,59.5,342
+Annual Plus Membership,12.0,3635,13th/San Antonio,55.99,624
+Annual Plus Membership,12.0,3294,6th/Lavaca,54.17,4151
+Annual Plus Membership,12.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Annual Plus Membership,12.0,3390,6th/Brazos,52.78,5003
+Denver B-cycle Founder,11.0,2498,Dean Keeton/Speedway ,102.42,219
+Denver B-cycle Founder,11.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Denver B-cycle Founder,11.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Denver B-cycle Founder,11.0,4055,11th & Salina ,62.35,1433
+Denver B-cycle Founder,11.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Denver B-cycle Founder,11.0,4047,8th & Lavaca,59.5,342
+Denver B-cycle Founder,11.0,3635,13th/San Antonio,55.99,624
+Denver B-cycle Founder,11.0,3294,6th/Lavaca,54.17,4151
+Denver B-cycle Founder,11.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Denver B-cycle Founder,11.0,3390,6th/Brazos,52.78,5003
+Explorer,28.0,2498,Dean Keeton/Speedway ,102.42,219
+Explorer,28.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Explorer,28.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Explorer,28.0,4055,11th & Salina ,62.35,1433
+Explorer,28.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Explorer,28.0,4047,8th & Lavaca,59.5,342
+Explorer,28.0,3635,13th/San Antonio,55.99,624
+Explorer,28.0,3294,6th/Lavaca,54.17,4151
+Explorer,28.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Explorer,28.0,3390,6th/Brazos,52.78,5003
+Explorer ($8 plus tax),19.0,2498,Dean Keeton/Speedway ,102.42,219
+Explorer ($8 plus tax),19.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Explorer ($8 plus tax),19.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Explorer ($8 plus tax),19.0,4055,11th & Salina ,62.35,1433
+Explorer ($8 plus tax),19.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Explorer ($8 plus tax),19.0,4047,8th & Lavaca,59.5,342
+Explorer ($8 plus tax),19.0,3635,13th/San Antonio,55.99,624
+Explorer ($8 plus tax),19.0,3294,6th/Lavaca,54.17,4151
+Explorer ($8 plus tax),19.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Explorer ($8 plus tax),19.0,3390,6th/Brazos,52.78,5003
+Founding Member,7.0,2498,Dean Keeton/Speedway ,102.42,219
+Founding Member,7.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Founding Member,7.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Founding Member,7.0,4055,11th & Salina ,62.35,1433
+Founding Member,7.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Founding Member,7.0,4047,8th & Lavaca,59.5,342
+Founding Member,7.0,3635,13th/San Antonio,55.99,624
+Founding Member,7.0,3294,6th/Lavaca,54.17,4151
+Founding Member,7.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Founding Member,7.0,3390,6th/Brazos,52.78,5003
+FunFunFun Fest 3 Day Pass,17.0,2498,Dean Keeton/Speedway ,102.42,219
+FunFunFun Fest 3 Day Pass,17.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+FunFunFun Fest 3 Day Pass,17.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+FunFunFun Fest 3 Day Pass,17.0,4055,11th & Salina ,62.35,1433
+FunFunFun Fest 3 Day Pass,17.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+FunFunFun Fest 3 Day Pass,17.0,4047,8th & Lavaca,59.5,342
+FunFunFun Fest 3 Day Pass,17.0,3635,13th/San Antonio,55.99,624
+FunFunFun Fest 3 Day Pass,17.0,3294,6th/Lavaca,54.17,4151
+FunFunFun Fest 3 Day Pass,17.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+FunFunFun Fest 3 Day Pass,17.0,3390,6th/Brazos,52.78,5003
+HT Ram Membership,20.0,2498,Dean Keeton/Speedway ,102.42,219
+HT Ram Membership,20.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+HT Ram Membership,20.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+HT Ram Membership,20.0,4055,11th & Salina ,62.35,1433
+HT Ram Membership,20.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+HT Ram Membership,20.0,4047,8th & Lavaca,59.5,342
+HT Ram Membership,20.0,3635,13th/San Antonio,55.99,624
+HT Ram Membership,20.0,3294,6th/Lavaca,54.17,4151
+HT Ram Membership,20.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+HT Ram Membership,20.0,3390,6th/Brazos,52.78,5003
+Heartland Pass (Annual Pay),12.0,2498,Dean Keeton/Speedway ,102.42,219
+Heartland Pass (Annual Pay),12.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Heartland Pass (Annual Pay),12.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Heartland Pass (Annual Pay),12.0,4055,11th & Salina ,62.35,1433
+Heartland Pass (Annual Pay),12.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Heartland Pass (Annual Pay),12.0,4047,8th & Lavaca,59.5,342
+Heartland Pass (Annual Pay),12.0,3635,13th/San Antonio,55.99,624
+Heartland Pass (Annual Pay),12.0,3294,6th/Lavaca,54.17,4151
+Heartland Pass (Annual Pay),12.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Heartland Pass (Annual Pay),12.0,3390,6th/Brazos,52.78,5003
+Heartland Pass (Monthly Pay),23.0,2498,Dean Keeton/Speedway ,102.42,219
+Heartland Pass (Monthly Pay),23.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Heartland Pass (Monthly Pay),23.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Heartland Pass (Monthly Pay),23.0,4055,11th & Salina ,62.35,1433
+Heartland Pass (Monthly Pay),23.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Heartland Pass (Monthly Pay),23.0,4047,8th & Lavaca,59.5,342
+Heartland Pass (Monthly Pay),23.0,3635,13th/San Antonio,55.99,624
+Heartland Pass (Monthly Pay),23.0,3294,6th/Lavaca,54.17,4151
+Heartland Pass (Monthly Pay),23.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Heartland Pass (Monthly Pay),23.0,3390,6th/Brazos,52.78,5003
+Local30,9.0,2498,Dean Keeton/Speedway ,102.42,219
+Local30,9.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local30,9.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local30,9.0,4055,11th & Salina ,62.35,1433
+Local30,9.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local30,9.0,4047,8th & Lavaca,59.5,342
+Local30,9.0,3635,13th/San Antonio,55.99,624
+Local30,9.0,3294,6th/Lavaca,54.17,4151
+Local30,9.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local30,9.0,3390,6th/Brazos,52.78,5003
+Local30 ($11 plus tax),8.0,2498,Dean Keeton/Speedway ,102.42,219
+Local30 ($11 plus tax),8.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local30 ($11 plus tax),8.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local30 ($11 plus tax),8.0,4055,11th & Salina ,62.35,1433
+Local30 ($11 plus tax),8.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local30 ($11 plus tax),8.0,4047,8th & Lavaca,59.5,342
+Local30 ($11 plus tax),8.0,3635,13th/San Antonio,55.99,624
+Local30 ($11 plus tax),8.0,3294,6th/Lavaca,54.17,4151
+Local30 ($11 plus tax),8.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local30 ($11 plus tax),8.0,3390,6th/Brazos,52.78,5003
+Local31,15.0,2498,Dean Keeton/Speedway ,102.42,219
+Local31,15.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local31,15.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local31,15.0,4055,11th & Salina ,62.35,1433
+Local31,15.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local31,15.0,4047,8th & Lavaca,59.5,342
+Local31,15.0,3635,13th/San Antonio,55.99,624
+Local31,15.0,3294,6th/Lavaca,54.17,4151
+Local31,15.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local31,15.0,3390,6th/Brazos,52.78,5003
+Local365,9.0,2498,Dean Keeton/Speedway ,102.42,219
+Local365,9.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local365,9.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local365,9.0,4055,11th & Salina ,62.35,1433
+Local365,9.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local365,9.0,4047,8th & Lavaca,59.5,342
+Local365,9.0,3635,13th/San Antonio,55.99,624
+Local365,9.0,3294,6th/Lavaca,54.17,4151
+Local365,9.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local365,9.0,3390,6th/Brazos,52.78,5003
+Local365 ($80 plus tax),8.0,2498,Dean Keeton/Speedway ,102.42,219
+Local365 ($80 plus tax),8.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local365 ($80 plus tax),8.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local365 ($80 plus tax),8.0,4055,11th & Salina ,62.35,1433
+Local365 ($80 plus tax),8.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local365 ($80 plus tax),8.0,4047,8th & Lavaca,59.5,342
+Local365 ($80 plus tax),8.0,3635,13th/San Antonio,55.99,624
+Local365 ($80 plus tax),8.0,3294,6th/Lavaca,54.17,4151
+Local365 ($80 plus tax),8.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local365 ($80 plus tax),8.0,3390,6th/Brazos,52.78,5003
+Local365 Youth (age 13-17 riders),10.0,2498,Dean Keeton/Speedway ,102.42,219
+Local365 Youth (age 13-17 riders),10.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local365 Youth (age 13-17 riders),10.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local365 Youth (age 13-17 riders),10.0,4055,11th & Salina ,62.35,1433
+Local365 Youth (age 13-17 riders),10.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local365 Youth (age 13-17 riders),10.0,4047,8th & Lavaca,59.5,342
+Local365 Youth (age 13-17 riders),10.0,3635,13th/San Antonio,55.99,624
+Local365 Youth (age 13-17 riders),10.0,3294,6th/Lavaca,54.17,4151
+Local365 Youth (age 13-17 riders),10.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local365 Youth (age 13-17 riders),10.0,3390,6th/Brazos,52.78,5003
+Local365 Youth (age 13-17 riders)- 1/2 off Special,6.0,2498,Dean Keeton/Speedway ,102.42,219
+Local365 Youth (age 13-17 riders)- 1/2 off Special,6.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local365 Youth (age 13-17 riders)- 1/2 off Special,6.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local365 Youth (age 13-17 riders)- 1/2 off Special,6.0,4055,11th & Salina ,62.35,1433
+Local365 Youth (age 13-17 riders)- 1/2 off Special,6.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local365 Youth (age 13-17 riders)- 1/2 off Special,6.0,4047,8th & Lavaca,59.5,342
+Local365 Youth (age 13-17 riders)- 1/2 off Special,6.0,3635,13th/San Antonio,55.99,624
+Local365 Youth (age 13-17 riders)- 1/2 off Special,6.0,3294,6th/Lavaca,54.17,4151
+Local365 Youth (age 13-17 riders)- 1/2 off Special,6.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local365 Youth (age 13-17 riders)- 1/2 off Special,6.0,3390,6th/Brazos,52.78,5003
+Local365 Youth with helmet (age 13-17 riders),12.0,2498,Dean Keeton/Speedway ,102.42,219
+Local365 Youth with helmet (age 13-17 riders),12.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local365 Youth with helmet (age 13-17 riders),12.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local365 Youth with helmet (age 13-17 riders),12.0,4055,11th & Salina ,62.35,1433
+Local365 Youth with helmet (age 13-17 riders),12.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local365 Youth with helmet (age 13-17 riders),12.0,4047,8th & Lavaca,59.5,342
+Local365 Youth with helmet (age 13-17 riders),12.0,3635,13th/San Antonio,55.99,624
+Local365 Youth with helmet (age 13-17 riders),12.0,3294,6th/Lavaca,54.17,4151
+Local365 Youth with helmet (age 13-17 riders),12.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local365 Youth with helmet (age 13-17 riders),12.0,3390,6th/Brazos,52.78,5003
+Local365+Guest Pass,9.0,2498,Dean Keeton/Speedway ,102.42,219
+Local365+Guest Pass,9.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local365+Guest Pass,9.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local365+Guest Pass,9.0,4055,11th & Salina ,62.35,1433
+Local365+Guest Pass,9.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local365+Guest Pass,9.0,4047,8th & Lavaca,59.5,342
+Local365+Guest Pass,9.0,3635,13th/San Antonio,55.99,624
+Local365+Guest Pass,9.0,3294,6th/Lavaca,54.17,4151
+Local365+Guest Pass,9.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local365+Guest Pass,9.0,3390,6th/Brazos,52.78,5003
+Local365+Guest Pass- 1/2 off Anniversary Special,10.0,2498,Dean Keeton/Speedway ,102.42,219
+Local365+Guest Pass- 1/2 off Anniversary Special,10.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local365+Guest Pass- 1/2 off Anniversary Special,10.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local365+Guest Pass- 1/2 off Anniversary Special,10.0,4055,11th & Salina ,62.35,1433
+Local365+Guest Pass- 1/2 off Anniversary Special,10.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local365+Guest Pass- 1/2 off Anniversary Special,10.0,4047,8th & Lavaca,59.5,342
+Local365+Guest Pass- 1/2 off Anniversary Special,10.0,3635,13th/San Antonio,55.99,624
+Local365+Guest Pass- 1/2 off Anniversary Special,10.0,3294,6th/Lavaca,54.17,4151
+Local365+Guest Pass- 1/2 off Anniversary Special,10.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local365+Guest Pass- 1/2 off Anniversary Special,10.0,3390,6th/Brazos,52.78,5003
+Local365- 1/2 off Anniversary Special,8.0,2498,Dean Keeton/Speedway ,102.42,219
+Local365- 1/2 off Anniversary Special,8.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Local365- 1/2 off Anniversary Special,8.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Local365- 1/2 off Anniversary Special,8.0,4055,11th & Salina ,62.35,1433
+Local365- 1/2 off Anniversary Special,8.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Local365- 1/2 off Anniversary Special,8.0,4047,8th & Lavaca,59.5,342
+Local365- 1/2 off Anniversary Special,8.0,3635,13th/San Antonio,55.99,624
+Local365- 1/2 off Anniversary Special,8.0,3294,6th/Lavaca,54.17,4151
+Local365- 1/2 off Anniversary Special,8.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Local365- 1/2 off Anniversary Special,8.0,3390,6th/Brazos,52.78,5003
+Madtown Monthly,9.0,2498,Dean Keeton/Speedway ,102.42,219
+Madtown Monthly,9.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Madtown Monthly,9.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Madtown Monthly,9.0,4055,11th & Salina ,62.35,1433
+Madtown Monthly,9.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Madtown Monthly,9.0,4047,8th & Lavaca,59.5,342
+Madtown Monthly,9.0,3635,13th/San Antonio,55.99,624
+Madtown Monthly,9.0,3294,6th/Lavaca,54.17,4151
+Madtown Monthly,9.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Madtown Monthly,9.0,3390,6th/Brazos,52.78,5003
+Membership: pay once  one-year commitment,7.0,2498,Dean Keeton/Speedway ,102.42,219
+Membership: pay once  one-year commitment,7.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Membership: pay once  one-year commitment,7.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Membership: pay once  one-year commitment,7.0,4055,11th & Salina ,62.35,1433
+Membership: pay once  one-year commitment,7.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Membership: pay once  one-year commitment,7.0,4047,8th & Lavaca,59.5,342
+Membership: pay once  one-year commitment,7.0,3635,13th/San Antonio,55.99,624
+Membership: pay once  one-year commitment,7.0,3294,6th/Lavaca,54.17,4151
+Membership: pay once  one-year commitment,7.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Membership: pay once  one-year commitment,7.0,3390,6th/Brazos,52.78,5003
+"Membership: pay once, one-year commitment",11.0,2498,Dean Keeton/Speedway ,102.42,219
+"Membership: pay once, one-year commitment",11.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+"Membership: pay once, one-year commitment",11.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+"Membership: pay once, one-year commitment",11.0,4055,11th & Salina ,62.35,1433
+"Membership: pay once, one-year commitment",11.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+"Membership: pay once, one-year commitment",11.0,4047,8th & Lavaca,59.5,342
+"Membership: pay once, one-year commitment",11.0,3635,13th/San Antonio,55.99,624
+"Membership: pay once, one-year commitment",11.0,3294,6th/Lavaca,54.17,4151
+"Membership: pay once, one-year commitment",11.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+"Membership: pay once, one-year commitment",11.0,3390,6th/Brazos,52.78,5003
+Pay-as-you-ride,21.0,2498,Dean Keeton/Speedway ,102.42,219
+Pay-as-you-ride,21.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Pay-as-you-ride,21.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Pay-as-you-ride,21.0,4055,11th & Salina ,62.35,1433
+Pay-as-you-ride,21.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Pay-as-you-ride,21.0,4047,8th & Lavaca,59.5,342
+Pay-as-you-ride,21.0,3635,13th/San Antonio,55.99,624
+Pay-as-you-ride,21.0,3294,6th/Lavaca,54.17,4151
+Pay-as-you-ride,21.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Pay-as-you-ride,21.0,3390,6th/Brazos,52.78,5003
+RESTRICTED,8.0,2498,Dean Keeton/Speedway ,102.42,219
+RESTRICTED,8.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+RESTRICTED,8.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+RESTRICTED,8.0,4055,11th & Salina ,62.35,1433
+RESTRICTED,8.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+RESTRICTED,8.0,4047,8th & Lavaca,59.5,342
+RESTRICTED,8.0,3635,13th/San Antonio,55.99,624
+RESTRICTED,8.0,3294,6th/Lavaca,54.17,4151
+RESTRICTED,8.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+RESTRICTED,8.0,3390,6th/Brazos,52.78,5003
+Republic Rider,18.0,2498,Dean Keeton/Speedway ,102.42,219
+Republic Rider,18.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Republic Rider,18.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Republic Rider,18.0,4055,11th & Salina ,62.35,1433
+Republic Rider,18.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Republic Rider,18.0,4047,8th & Lavaca,59.5,342
+Republic Rider,18.0,3635,13th/San Antonio,55.99,624
+Republic Rider,18.0,3294,6th/Lavaca,54.17,4151
+Republic Rider,18.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Republic Rider,18.0,3390,6th/Brazos,52.78,5003
+Republic Rider (Annual),11.0,2498,Dean Keeton/Speedway ,102.42,219
+Republic Rider (Annual),11.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Republic Rider (Annual),11.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Republic Rider (Annual),11.0,4055,11th & Salina ,62.35,1433
+Republic Rider (Annual),11.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Republic Rider (Annual),11.0,4047,8th & Lavaca,59.5,342
+Republic Rider (Annual),11.0,3635,13th/San Antonio,55.99,624
+Republic Rider (Annual),11.0,3294,6th/Lavaca,54.17,4151
+Republic Rider (Annual),11.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Republic Rider (Annual),11.0,3390,6th/Brazos,52.78,5003
+RideScout Single Ride,2.0,2498,Dean Keeton/Speedway ,102.42,219
+RideScout Single Ride,2.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+RideScout Single Ride,2.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+RideScout Single Ride,2.0,4055,11th & Salina ,62.35,1433
+RideScout Single Ride,2.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+RideScout Single Ride,2.0,4047,8th & Lavaca,59.5,342
+RideScout Single Ride,2.0,3635,13th/San Antonio,55.99,624
+RideScout Single Ride,2.0,3294,6th/Lavaca,54.17,4151
+RideScout Single Ride,2.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+RideScout Single Ride,2.0,3390,6th/Brazos,52.78,5003
+RideScout Single Tide,6.0,2498,Dean Keeton/Speedway ,102.42,219
+RideScout Single Tide,6.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+RideScout Single Tide,6.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+RideScout Single Tide,6.0,4055,11th & Salina ,62.35,1433
+RideScout Single Tide,6.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+RideScout Single Tide,6.0,4047,8th & Lavaca,59.5,342
+RideScout Single Tide,6.0,3635,13th/San Antonio,55.99,624
+RideScout Single Tide,6.0,3294,6th/Lavaca,54.17,4151
+RideScout Single Tide,6.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+RideScout Single Tide,6.0,3390,6th/Brazos,52.78,5003
+Semester Membership,8.0,2498,Dean Keeton/Speedway ,102.42,219
+Semester Membership,8.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Semester Membership,8.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Semester Membership,8.0,4055,11th & Salina ,62.35,1433
+Semester Membership,8.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Semester Membership,8.0,4047,8th & Lavaca,59.5,342
+Semester Membership,8.0,3635,13th/San Antonio,55.99,624
+Semester Membership,8.0,3294,6th/Lavaca,54.17,4151
+Semester Membership,8.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Semester Membership,8.0,3390,6th/Brazos,52.78,5003
+Single Trip,36.0,2498,Dean Keeton/Speedway ,102.42,219
+Single Trip,36.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Single Trip,36.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Single Trip,36.0,4055,11th & Salina ,62.35,1433
+Single Trip,36.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Single Trip,36.0,4047,8th & Lavaca,59.5,342
+Single Trip,36.0,3635,13th/San Antonio,55.99,624
+Single Trip,36.0,3294,6th/Lavaca,54.17,4151
+Single Trip,36.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Single Trip,36.0,3390,6th/Brazos,52.78,5003
+Single Trip ,32.0,2498,Dean Keeton/Speedway ,102.42,219
+Single Trip ,32.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Single Trip ,32.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Single Trip ,32.0,4055,11th & Salina ,62.35,1433
+Single Trip ,32.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Single Trip ,32.0,4047,8th & Lavaca,59.5,342
+Single Trip ,32.0,3635,13th/San Antonio,55.99,624
+Single Trip ,32.0,3294,6th/Lavaca,54.17,4151
+Single Trip ,32.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Single Trip ,32.0,3390,6th/Brazos,52.78,5003
+Single Trip (Pay-as-you-ride),30.0,2498,Dean Keeton/Speedway ,102.42,219
+Single Trip (Pay-as-you-ride),30.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Single Trip (Pay-as-you-ride),30.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Single Trip (Pay-as-you-ride),30.0,4055,11th & Salina ,62.35,1433
+Single Trip (Pay-as-you-ride),30.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Single Trip (Pay-as-you-ride),30.0,4047,8th & Lavaca,59.5,342
+Single Trip (Pay-as-you-ride),30.0,3635,13th/San Antonio,55.99,624
+Single Trip (Pay-as-you-ride),30.0,3294,6th/Lavaca,54.17,4151
+Single Trip (Pay-as-you-ride),30.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Single Trip (Pay-as-you-ride),30.0,3390,6th/Brazos,52.78,5003
+Single Trip Ride,31.0,2498,Dean Keeton/Speedway ,102.42,219
+Single Trip Ride,31.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Single Trip Ride,31.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Single Trip Ride,31.0,4055,11th & Salina ,62.35,1433
+Single Trip Ride,31.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Single Trip Ride,31.0,4047,8th & Lavaca,59.5,342
+Single Trip Ride,31.0,3635,13th/San Antonio,55.99,624
+Single Trip Ride,31.0,3294,6th/Lavaca,54.17,4151
+Single Trip Ride,31.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Single Trip Ride,31.0,3390,6th/Brazos,52.78,5003
+Student Membership,5.0,2498,Dean Keeton/Speedway ,102.42,219
+Student Membership,5.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Student Membership,5.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Student Membership,5.0,4055,11th & Salina ,62.35,1433
+Student Membership,5.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Student Membership,5.0,4047,8th & Lavaca,59.5,342
+Student Membership,5.0,3635,13th/San Antonio,55.99,624
+Student Membership,5.0,3294,6th/Lavaca,54.17,4151
+Student Membership,5.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Student Membership,5.0,3390,6th/Brazos,52.78,5003
+Try Before You Buy Special,27.0,2498,Dean Keeton/Speedway ,102.42,219
+Try Before You Buy Special,27.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Try Before You Buy Special,27.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Try Before You Buy Special,27.0,4055,11th & Salina ,62.35,1433
+Try Before You Buy Special,27.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Try Before You Buy Special,27.0,4047,8th & Lavaca,59.5,342
+Try Before You Buy Special,27.0,3635,13th/San Antonio,55.99,624
+Try Before You Buy Special,27.0,3294,6th/Lavaca,54.17,4151
+Try Before You Buy Special,27.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Try Before You Buy Special,27.0,3390,6th/Brazos,52.78,5003
+U.T. Student Membership,6.0,2498,Dean Keeton/Speedway ,102.42,219
+U.T. Student Membership,6.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+U.T. Student Membership,6.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+U.T. Student Membership,6.0,4055,11th & Salina ,62.35,1433
+U.T. Student Membership,6.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+U.T. Student Membership,6.0,4047,8th & Lavaca,59.5,342
+U.T. Student Membership,6.0,3635,13th/San Antonio,55.99,624
+U.T. Student Membership,6.0,3294,6th/Lavaca,54.17,4151
+U.T. Student Membership,6.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+U.T. Student Membership,6.0,3390,6th/Brazos,52.78,5003
+UT Student Membership,6.0,2498,Dean Keeton/Speedway ,102.42,219
+UT Student Membership,6.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+UT Student Membership,6.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+UT Student Membership,6.0,4055,11th & Salina ,62.35,1433
+UT Student Membership,6.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+UT Student Membership,6.0,4047,8th & Lavaca,59.5,342
+UT Student Membership,6.0,3635,13th/San Antonio,55.99,624
+UT Student Membership,6.0,3294,6th/Lavaca,54.17,4151
+UT Student Membership,6.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+UT Student Membership,6.0,3390,6th/Brazos,52.78,5003
+Walk Up,27.0,2498,Dean Keeton/Speedway ,102.42,219
+Walk Up,27.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Walk Up,27.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Walk Up,27.0,4055,11th & Salina ,62.35,1433
+Walk Up,27.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Walk Up,27.0,4047,8th & Lavaca,59.5,342
+Walk Up,27.0,3635,13th/San Antonio,55.99,624
+Walk Up,27.0,3294,6th/Lavaca,54.17,4151
+Walk Up,27.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Walk Up,27.0,3390,6th/Brazos,52.78,5003
+Weekender,18.0,2498,Dean Keeton/Speedway ,102.42,219
+Weekender,18.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Weekender,18.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Weekender,18.0,4055,11th & Salina ,62.35,1433
+Weekender,18.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Weekender,18.0,4047,8th & Lavaca,59.5,342
+Weekender,18.0,3635,13th/San Antonio,55.99,624
+Weekender,18.0,3294,6th/Lavaca,54.17,4151
+Weekender,18.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Weekender,18.0,3390,6th/Brazos,52.78,5003
+Weekender ($15 plus tax),16.0,2498,Dean Keeton/Speedway ,102.42,219
+Weekender ($15 plus tax),16.0,4062,Lakeshore & Pleasant Valley,71.9,1110
+Weekender ($15 plus tax),16.0,4061,Lakeshore @ Austin Hostel,65.01,1851
+Weekender ($15 plus tax),16.0,4055,11th & Salina ,62.35,1433
+Weekender ($15 plus tax),16.0,4059,Nash Hernandez @ RBJ South,61.4,1082
+Weekender ($15 plus tax),16.0,4047,8th & Lavaca,59.5,342
+Weekender ($15 plus tax),16.0,3635,13th/San Antonio,55.99,624
+Weekender ($15 plus tax),16.0,3294,6th/Lavaca,54.17,4151
+Weekender ($15 plus tax),16.0,3455,5th/Guadalupe @ Republic Square,53.16,354
+Weekender ($15 plus tax),16.0,3390,6th/Brazos,52.78,5003
